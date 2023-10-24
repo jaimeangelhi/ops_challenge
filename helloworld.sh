@@ -7,6 +7,8 @@
 
 # Declaration of variables
 
+echo I am working perfectly!
+
 # Declaration of functions
 
 
