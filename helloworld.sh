@@ -7,7 +7,7 @@
 
 # Declaration of variables
 
-status=I am working perfectly!
+status="I am working perfectly!"
 
 # Declaration of functions
 
