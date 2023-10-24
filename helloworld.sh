@@ -7,7 +7,7 @@
 
 # Declaration of variables
 
-echo I am working perfectly!
+status=I am working perfectly!
 
 # Declaration of functions
 
@@ -15,5 +15,6 @@ echo I am working perfectly!
 # Main
 
 echo helloworld
+echo $status
 
 # End
