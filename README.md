@@ -4,7 +4,7 @@
 
 [Op Challenge 02](helloworld.sh)
 
-[Op Challenge 03](ops-201d14-opschallenge03.md)
+[Op Challenge 03](printlogin.sh)
 
 [Op Challenge 04](ops-201d14-opschallenge04.md)
 
