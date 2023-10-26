@@ -7,12 +7,13 @@
 
 # Declaration of variables
 
-login=$last
+login= last
 
 # Declaration of functions
 
-print_login_history () {
-echo $last echo “This is the login history”
+print_login_history() {
+echo $login 
+echo “This is the login history”
 }
 
 # Main
