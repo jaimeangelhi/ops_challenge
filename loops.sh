@@ -1,4 +1,7 @@
+#!/bin/bash
 
+
+# Purpose:                      Trial of demo
 # Execution:                    bash loops.sh
 # Additional sources:           X
 
