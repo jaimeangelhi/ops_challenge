@@ -4,7 +4,7 @@
 # Author:                       jai.me.angel.hi
 # Date of latest revision:      10/27/2023
 # Purpose:                      displays running processes, asks the user for a PID, then kills the process with that PID.
-# Additional sources.   ChatGpt  (https://chat.openai.com/c/fd00dbf0-139a-40d3-8d4f-9bc8ccfe61ed)     
+# Additional sources            ChatGpt  (https://chat.openai.com/c/fd00dbf0-139a-40d3-8d4f-9bc8ccfe61ed)     
 
 
 # Declaration of variables
