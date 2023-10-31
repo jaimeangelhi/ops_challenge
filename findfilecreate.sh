@@ -4,7 +4,7 @@
 # Author:                       jai.me.angel.hi
 # Date of latest revision:      10/30/2023
 # Purpose:                      detects if file/directory exists, creates it if it does not exist.
-# Additional sources            
+# Additional sources            Class Repo on Github demo (https://github.com/codefellows/seattle-ops-201d14/blob/main/class-06/demo/demo.sh)
 
 
 # Declaration of variables
