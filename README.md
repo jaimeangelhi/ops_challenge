@@ -24,7 +24,7 @@
 
 [Op Challenge 02](301/challenge2.sh)
 
-[Op Challenge 03](--)
+[Op Challenge 03](301/challenge3.sh)
 
 [Op Challenge 04](--)
 
