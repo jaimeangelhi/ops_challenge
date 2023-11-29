@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  challenge1.sh
+# Script Name:                  challenge2.sh
 # Author:                       jai.me.angel.hi
 # Date of latest revision:      11/28/2023
 # Purpose:                      To create a bash script that: Copies /var/log/syslog to the current working directory and appends the current date and time to the filename
