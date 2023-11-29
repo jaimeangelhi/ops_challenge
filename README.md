@@ -22,9 +22,7 @@
 
 ## Ops301 Ops Challenge
 
-[Op Challenge 01](301/challenge1.sh)
-
-[Op Challenge 02](--)
+[Op Challenge 02](301/challenge2.sh)
 
 [Op Challenge 03](--)
 
