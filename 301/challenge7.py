@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+# Script Name:                  challenge7.py
+# Author:                       jai.me.angel.hi
+# Date of latest revision:      12/5/2023
+# Purpose:                      Directory Creation
+# Additional Source             ChatGPT
+
 # Import libraries
 import os
 
