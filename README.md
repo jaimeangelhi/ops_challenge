@@ -39,3 +39,7 @@
 [Op Challenge 09](--)
 
 [Op Challenge 10](--)
+
+## Ops401 Ops Challenge
+
+[Op Challenge 02](401/ops-401d10-challenge02.py)
