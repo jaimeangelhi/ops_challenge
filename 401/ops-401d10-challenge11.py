@@ -6,7 +6,7 @@
 # Purpose:                      Network Security Tool with Scapy Part 1 of 3
 # Additional Source             ChatGPT (https://chat.openai.com/share/20e34574-cfc0-43ef-b426-5d83e6e3c8e1)
 
-pip install scapy
+
 
 from scapy.all import *
 
