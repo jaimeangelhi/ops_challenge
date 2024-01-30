@@ -4,7 +4,7 @@
 # Author:                       jai.me.angel.hi
 # Date of latest revision:      1/29/24
 # Purpose:                      Automated Brute Force Wordlist Attack Tool Part 1 of 3
-# Additional Source             ChatGPT, Class Demo
+# Additional Source             ChatGPT (https://chat.openai.com/share/319b6773-2998-48b0-ab57-aa7b48bd3e0d), Class Demo
 
 import time
 import re
