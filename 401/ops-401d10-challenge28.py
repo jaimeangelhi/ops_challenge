@@ -1,5 +1,10 @@
+#!/usr/bin/env python3
 
-
+# Script Name:                  ops-401d10-challenge28.py
+# Author:                       jai.me.angel.hi
+# Date of latest revision:      2/14/24
+# Purpose:                      Event Logging Tool Part 3 of 3
+# Additional Source             ChatGPT (https://chat.openai.com/share/20e34574-cfc0-43ef-b426-5d83e6e3c8e1), Class Demo
 
 
 import logging
@@ -11,7 +16,7 @@ logger = logging.getLogger('NetworkScanner')
 logger.setLevel(logging.DEBUG)  # Log messages of all levels
 
 # Create a file handler to log messages to a file
-file_handler = logging.FileHandler('ops22.log')
+file_handler = logging.FileHandler('opsprev.log')
 file_handler.setLevel(logging.DEBUG)
 file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 
